@@ -1,0 +1,1 @@
+D:\cocos2dx-game\CardsGame\CardsGame\proj.win32\Debug.win32\CardsGame.exe
